@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "d4c6424d5e58388671938a55",
+  "owner": "x7wmu5dqa",
+  "repo": "page-93e9588af08ecbc3e99b942f",
+  "title": "clash verge免费节点订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "93e9588af08ecbc3e99b942f",
+      "a": "YukiMo",
+      "b": "clash verge免费节点订阅",
+      "entity": "YukiMo",
+      "brand": "clash verge免费节点订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "98e9a68f1c2b8d8ce05bd9270b044f2e55dc4da0fc9cf69e2b5190a6dcb97eaf",
+      "content": {
+        "primary_entity": "YukiMo",
+        "keyword1": "YukiMo",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，路由器、桌面与移动端均有可用的订阅配置方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后下载客户端导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "即刻配置订阅",
+          "AI_DESCRIPTION": "，YukiMo 提供基础版、旗舰版与团队版三档方案，月付价格分别为 ¥15、¥35 和 ¥85，按年付可享 ¥150/年、¥350/年与 ¥850/年。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版附带 IPLC 专线与流媒体原生解锁，团队版支持企业定制路由。不同设备可按客户端文档导入订阅，按用量与在线设备数选择合适的版本。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期三个角度梳理选择思路。",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月与旗舰版 300GB/月适合个人，团队版 1000GB/月适合多设备共享。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台与 20 台三档设备上限，按手机、电脑与路由器的实际在线数量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格约等于十个月，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_1": "档位匹配用量",
+          "AI_FEATURE_TITLE_2": "设备数量分层",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成初次配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "YukiMo 提供多档海外加速订阅，覆盖个人到团队的不同流量与设备需求。旗舰版含 IPLC 专线与流媒体解锁，团队版支持企业定制路由，按需选择后在各平台客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与专属权益，按用途选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量与同时在线设备数，从基础版、旗舰版、团队版中挑选合适档位。",
+          "AI_STEP_TEXT_2": "确认所用设备与操作系统，查看对应客户端对订阅导入的适配要求。",
+          "AI_STEP_TEXT_3": "依照所选客户端的使用文档，将订阅地址导入配置并启用节点。",
+          "AI_STEP_TITLE_1": "选择订阅方案",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "导入并配置订阅",
+          "AI_VISUAL_TITLE": "YukiMo 订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "个人手机加电脑使用可选基础版 3 台设备；需要流媒体解锁与游戏专线可选旗舰版 5 台设备；团队协作或较多设备同时在线可选团队版 20 台设备。",
+          "AI_FAQ_QUESTION_2": "订阅支持哪些设备导入？",
+          "AI_FAQ_ANSWER_2": "常见手机、平板与桌面系统均有对应客户端，具体支持情况请参照各客户端文档，按说明导入订阅链接即可使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付一年费用，年付价格约为月付的十个月，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超出当前套餐上限时，可升级至更高一档套餐，或减少同时连接设备数量以符合套餐规定。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位的套餐，以满足后续使用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6972faad4d76e9d9c8cb97db5e6b0e9dbcfdc8e962311ab0d84fd335e26e7794",
+    "sitemap.xml": "4cc44bd0bf21094e8d54539b527346de9639b68db9cf6fa4aefae8d11a3b8b53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "58c98b80e3154e6ae3bb57707a225e8110f14ea8ad7f6a0a3c93ae5dc2467eed"
+}
